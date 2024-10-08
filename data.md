@@ -8,3 +8,5 @@
     "password": "1234567",
     "username": "kk"
 }
+
+- This i learned how to manage the mongdb atlas ans build the go lang  user verification things .
